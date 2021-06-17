@@ -1,2 +1,2 @@
 # Discord-BOT
-A discord bot for practice
+A discord bot to know your rank made for practice!
